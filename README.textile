@@ -1,9 +1,0 @@
-h2 yore |yôr|
-
-h3 noun (in phrase of yore) poetic/literary
-
-of long ago or former times (used in nostalgic or mock-nostalgic recollection) : a great empire in days of yore.
-
-<hr />
-
-Shell command history search tool
